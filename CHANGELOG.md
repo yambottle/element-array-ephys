@@ -3,6 +3,27 @@
 Observes [Semantic Versioning](https://semver.org/spec/v2.0.0.html) standard and
  [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) convention.
 
+<!-- version list -->
+
+## Unreleased
+
+### Features
+
+- ✨ temp test semantic release - should remove later
+  ([`5f7f6a2`](https://github.com/yambottle/element-array-ephys/commit/5f7f6a2633ee96130b4aa667e697d48331356b2c))
+
+
+## v0.4.0 (2025-01-28)
+
+### Bug Fixes
+
+- Fix release titles in Changelog
+  ([`d4e08ee`](https://github.com/yambottle/element-array-ephys/commit/d4e08ee2612920d3b183b3de6488c7b94a59de4d))
+
+- Update changelog and semantic release
+  ([`77d001d`](https://github.com/yambottle/element-array-ephys/commit/77d001dc2d5e29f9f962857cbbab384cb23303cd))
+
+
 ## [0.4.0] - 2025-01-28
 
 + Update - No longer support multiple variation of ephys module, keep only `ephys_no_curation` module, renamed to `ephys`
